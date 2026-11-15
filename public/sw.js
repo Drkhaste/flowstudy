@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studyflow-pen-lab-v1';
+const CACHE_NAME = 'studyflow-pen-lab-v2';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icons/studyflow.svg', './icons/studyflow-192.png', './icons/studyflow-512.png'];
 
 self.addEventListener('install', (event) => {
